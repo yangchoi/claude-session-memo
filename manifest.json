@@ -1,0 +1,10 @@
+{
+  "name": "session-memo",
+  "version": "1.0.0",
+  "description": "Share memos between Claude Code sessions for parallel work handoff",
+  "author": "yangchoi",
+  "repository": "https://github.com/yangchoi/claude-session-memo",
+  "commands": [
+    "commands/memo.md"
+  ]
+}
